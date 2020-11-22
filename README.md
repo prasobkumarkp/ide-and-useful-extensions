@@ -35,6 +35,7 @@ Best IDEs and useful extensions which can make you productive
 1. gitignore
 1. Python
 1. TSLint
+1. Import Cost
 
 ## VS Extension
 
